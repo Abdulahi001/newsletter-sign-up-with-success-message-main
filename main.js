@@ -22,7 +22,7 @@ btn1.addEventListener('click', () => {
 
             setInterval(() => {
                 location.reload()
-            },4000)
+            },10000)
 
 
         }
